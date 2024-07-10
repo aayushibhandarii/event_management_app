@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809542258805",
+    "project_id": "event-management-875ec",
+    "storage_bucket": "event-management-875ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809542258805:android:7414fdf520f534aad8e83c",
+        "android_client_info": {
+          "package_name": "com.example.practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByshqgTP5Wf_q-80JymEtszk7BwaAl5SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
